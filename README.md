@@ -4,14 +4,14 @@
 
 ---
 
-## Importing the package
+# Importing the package
 
 ```bash
 pip install knnclassifier
 ```
 
 ```python
-from knn_classifier import KNNClassifier
+from knnclassifier import KNNClassifier
 ```
 
 This statement imports the `KNNClassifier` class, which will be used to create your classifier objects.
