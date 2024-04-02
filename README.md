@@ -16,6 +16,8 @@ from knnclassifier import KNNClassifier
 
 This statement imports the `KNNClassifier` class, which will be used to create your classifier objects.
 
+---
+
 # Using the package
 
 ## Fitting the classifier
